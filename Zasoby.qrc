@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>logo_new.png</file>
+        <file>application_form_delete.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>database_gear.png</file>
+        <file>page.png</file>
+        <file>door_in.png</file>
+        <file>arrow_undo.png</file>
+        <file>page_delete.png</file>
+        <file>pencil_go.png</file>
+        <file>table_add.png</file>
+        <file>table_delete.png</file>
+        <file>table_go.png</file>
+        <file>table_row_delete.png</file>
+        <file>table_row_insert.png</file>
+        <file>cancel.png</file>
+        <file>accept.png</file>
+        <file>computer.png</file>
+        <file>application_form.png</file>
+        <file>application_form_edit.png</file>
+        <file>application_form_delete.png</file>
+        <file>application_error.png</file>
+        <file>application_form_add.png</file>
+        <file>disk.png</file>
+    </qresource>
+</RCC>
